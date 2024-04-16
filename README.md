@@ -1,1 +1,6 @@
-# .github
+# Welcome to CDS's organization on GitHub! :wave:
+
+CDS is the leading provider of multi-vendor support (MVS) services for data centers worldwide. Their Raytrix MVS software platform offers a range of mission-critical data center hardware maintenance and support for high-end storage, server and network equipment. CDS offers post-warranty support services through OEMs and channel partners, servicing a diversified customer base throughout the Americas, EMEA, Asia Pacific, and Japan. Partnering with the leading data center infrastructure providers to deliver MVS on a global basis, CDS is assisting over 700 customers in 45 countries to unlock spend in the data center across enterprise IT infrastructure with diverse maintenance needs and cost containment requirements.
+
+## CDS Public Repository Disclosure 
+All content in these repositories including code has been provided by CDS under the associated open source software license and CDS is under no obligation to provide enhancements, updates, or support. CDS developers produced this code as an open source project (not as an CDS product), and CDS makes no assertions as to the level of quality nor security, and will not be maintaining this code going forward.
